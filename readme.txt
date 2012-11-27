@@ -16,6 +16,8 @@ Have you ever wanted a quick, easy way to create a ticket in Connectwise without
 
 This module will place a form on the frontend of your website. Once a user has entered and submitted his/her information through the form, the data will be inserted into a newly created ticket. By using an email connector, the ticket is created with the user's email address so that the correct contact information is used in ConnectWise. The ticket is automatically generated in ConnectWise on the service board chosen by the user.
 
+If you like the features that Quick Ticket Lite offers, please be sure check out [JoomConnect](http://www.joomconnect.com) for a full suite of integration options between your website and ConnectWise.
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
